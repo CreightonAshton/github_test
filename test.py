@@ -1,3 +1,5 @@
 print('Creighton was here')
-print(2**100) #changed to 100 from 50
+
+print(2**50) #changed to 50 from 75
+
 print('Matt was here')
